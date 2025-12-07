@@ -45,6 +45,7 @@ mushroom-classifier-ml
 
 mushroom_classifier.ipynb # основной ноутбук с решением (Colab)
 README.md # документация проекта
+mushrooms.zip # архив dataset
 
 
 
@@ -58,6 +59,7 @@ README.md # документация проекта
 4. Загрузите фотографию гриба.
 5. Получите предсказание модели.
 
+либо можно сразу перейти по данной ссылке: https://colab.research.google.com/drive/1c7TRMZleQVf0SQy0owwnRRsyPtTQoACH?usp=sharing
 
 ### Вариант 2 — локально
 
