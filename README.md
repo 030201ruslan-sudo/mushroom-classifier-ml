@@ -45,7 +45,7 @@ mushroom-classifier-ml
 
 mushroom_classifier.ipynb # основной ноутбук с решением (Colab)
 README.md # документация проекта
-requirements.txt # библиотеки для работы
+
 
 
 ## Как запустить
